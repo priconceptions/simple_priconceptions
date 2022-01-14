@@ -1,8 +1,8 @@
 /* @tailwind base;
 @tailwind components;
 @tailwind utilities; */
+@import "prism.css";
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
-
 body {
     margin: 0 auto;
     max-width: 50em;
@@ -23,9 +23,11 @@ strong {
   color: #333;
 }
 
-code,
+/* code,
 pre {
   background: #eee;
+  width: 100%;
+  overflow: scroll;
 }
 
 code {
@@ -37,7 +39,7 @@ pre {
   padding: 1em;
   border-left: 2px solid #69c;
 
-}
+} */
 
 .nav-banner {
     align-items: center;

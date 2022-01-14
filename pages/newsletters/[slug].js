@@ -8,8 +8,8 @@ import markdownToHtml from '../../lib/markdownToHtml'
 const Note = ({ frontmatter: { title, date }, slug, htmlContent }) => {
     return (
         <>
-            <h1 class="post-title">{title}</h1>
-            <div class="post-date">{date}</div>
+            <h1 className="post-title">{title}</h1>
+            <div className="post-date">{date}</div>
             <div>
                 <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
             </div>

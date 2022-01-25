@@ -40,7 +40,7 @@ export default function Home({ posts }) {
       <h1>
         Call me maybe? 📞
       </h1>
-      <p>Message me on Twitter or through email!</p>
+      <p>Message me on <Link href='https://twitter.com/priDhulkhed'><a>Twitter</a></Link> or through <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email</a></Link>!</p>
     </>
   )
 }

@@ -6,18 +6,25 @@ tags:
   - weekly
 ---
 
+## What did you do this week and how did you feel about it?
+
 ### +,-, ->
 
-| (+) | (-) | (->) |  
-| --- | --- | ---- | 
+| (+) | (-) | (->) |
+| --- | --- | ---- |
 |     |     |      |
+
+
+## Financials
+Go [here](https://docs.google.com/spreadsheets/d/1i7yQhUK7z7_27-szveDbgvZX_r9i5p4pHLeNsCt2Aw4/edit#gid=1214189535) and fill out the spending from this week
+
+- How can you make your money work for you?
+- How can you better burn both ends of the candle? 
+- Am I doing my best to reduce spending and increase income?
+
 ## Looking ahead
 ### What do you want to do this week?
-Work:
-- Get used to working from 6am to 2pm
-- Set up GTKY chats with people in that list
-- Start working on IOS developement
-- 
+
 
 ### How will you get there?
 

@@ -5,121 +5,144 @@
 /* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap'); */
 
 @font-face {
-  font-family: "IBM Plex Sans";
-  src: url("/fonts/IBMPlexSans-Regular.ttf");
+font-family: "IBM Plex Sans";
+src: url("/fonts/IBMPlexSans-Regular.ttf");
 }
 
 body {
-    margin: 0 auto;
-    max-width: 50em;
-    font-family: 'IBM Plex Sans', sans-serif;
-    line-height: 1.5;
-    padding: 4em 1em;
-    background-color: #fffff8;
-  }
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'IBM Plex Sans', sans-serif;
+  line-height: 1.5;
+  padding: 4em 1em;
+  background-color: #fffff8;
+}
 
-  h2 {
-    margin-top: 1em;
-    padding-top: 1em;
-  }
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
+}
 
 h1,
 h2,
 strong {
-  color: #333;
+color: #333;
 }
 
 /* code,
 pre {
-  background: #eee;
-  width: 100%;
-  overflow: scroll;
+background: #eee;
+width: 100%;
+overflow: scroll;
 }
 
 code {
-  padding: 2px 4px;
-  vertical-align: text-bottom;
+padding: 2px 4px;
+vertical-align: text-bottom;
 }
 
 pre {
-  padding: 1em;
-  border-left: 2px solid #69c;
+padding: 1em;
+border-left: 2px solid #69c;
 
 } */
 
 .nav-banner {
-    align-items: center;
+  align-items: center;
 }
 
 .nav-banner h2 {
-    margin: 0;
-    padding: 0;
-    cursor: pointer;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
 
 }
 
 .nav-links {
-    align-items: stretch;
-    display: flex;
-    flex-grow: 1;
-    flex-shrink: 1;
-    justify-content: flex-end;
+  align-items: stretch;
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 1;
+  justify-content: flex-end;
 }
 
 .nav-links p {
-    margin: 0;
-    cursor: pointer;
-    margin-right: 1em;
+  margin: 0;
+  cursor: pointer;
+  margin-right: 1em;
 }
 
 .navbar {
-    align-items: center;
-    background: none;
-    display: flex;
-    justify-content: space-between;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  align-items: center;
+  background: none;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 1em;
+  margin-bottom: 2em;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 time {
-    color: #696969;
-    font-style: italic;
+  color: #696969;
+  font-style: italic;
 }
 
 blockquote {
-    background: #f9f9f9;
-    border-left: 3px solid #ccc;
-    margin: 1.5em 10px;
-    padding: 0.5em 10px;
-    quotes: "\201C""\201D""\2018""\2019";
-  }
-  blockquote:before {
-    color: #ccc;
-    content: open-quote;
-    font-size: 4em;
-    line-height: 0.1em;
-    margin-right: 0.25em;
-    vertical-align: -0.4em;
-  }
-  blockquote p {
-    display: inline;
-  }
+  background: #f9f9f9;
+  border-left: 3px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #ccc;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
 
 
-  table {
-    display: block;
-    max-width: -moz-fit-content;
-    max-width: fit-content;
-    margin: 0 auto;
-    overflow-x: auto;
-    white-space: nowrap;
-  }
-  th, td {
-    padding: 0.25rem;
-    text-align: left;
-    border: 1px solid #ccc;
-  }
-  .hover {
-    background: yellow;
-  }
+table {
+  display: block;
+  max-width: -moz-fit-content;
+  max-width: fit-content;
+  margin: 0 auto;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+th, td {
+  padding: 0.25rem;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+.hover {
+  background: yellow;
+}
+
+footer {
+  text-align: center;
+  padding-top: 1em;
+  margin-top: 2em;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.subscribe-err {
+  color: red;
+}
+
+.subscribe-success {
+  color: green;
+}
+
+input {
+  margin-left: 4px;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+}

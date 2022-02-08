@@ -1,6 +1,5 @@
 import React from 'react';
 import Link from 'next/link';
-import daysInLife from './daysInLife.json';
 import colors from './colors';
 
 const Streak = ({ title, date, description, tags, bg, subdir, slug }) => {

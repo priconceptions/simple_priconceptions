@@ -26,7 +26,7 @@ export default function Home({ posts }) {
       </h1>
       <div>
         Check out more of my writing here.
-        {posts.map((post, index) => {
+        {posts.slice(0, 5).map((post, index) => {
           const { slug, subdir } = post
           return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} />
         })}

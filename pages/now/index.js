@@ -2,6 +2,7 @@ import React from 'react'
 import PostCard from '../../components/PostCard'
 import { getPostsFrom } from '../../lib/api'
 import Link from 'next/link'
+import Streak from '../../components/Streak'
 
 const Now = ({ posts }) => {
     return (
@@ -19,7 +20,7 @@ const Now = ({ posts }) => {
                 <p>This section is inspired by <Link href='https://waitbutwhy.com/2015/12/the-tail-end.html'><a>Tim Urban's post, The Tail End</a></Link>. It's a way to visualize my days, months, and years and holistically evaluate how I'm doing.</p>
                 {posts.map((post, index) => {
                     const { slug, subdir } = post
-                    return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} />
+                    return <Streak key={index} {...post.frontmatter} subdir={subdir} slug={slug} />
                 })}
             </div>
         </>

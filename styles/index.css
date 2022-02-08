@@ -146,3 +146,13 @@ input {
 input[type="submit"] {
   cursor: pointer;
 }
+
+.post-card a {
+  font-size: 1.25rem;
+  text-decoration: none;
+  line-height: 1.5rem;
+}
+
+.post-card p {
+  margin-block-start: 0.5em;
+}

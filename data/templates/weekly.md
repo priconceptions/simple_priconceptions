@@ -16,7 +16,7 @@ tags:
 
 
 ## Financials
-Go [here](https://docs.google.com/spreadsheets/d/1i7yQhUK7z7_27-szveDbgvZX_r9i5p4pHLeNsCt2Aw4/edit#gid=1214189535) and fill out the spending from this week
+Go [here](https://docs.google.com/spreadsheets/d/1C519yI-EkyFT7xEbORq5iv-hWDrWY8-l4gTsmkkBMrE/edit#gid=1214189535) and fill out the spending from this week
 
 - How can you make your money work for you?
 - How can you better burn both ends of the candle? 

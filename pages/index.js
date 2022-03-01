@@ -25,7 +25,7 @@ export default function Home({ posts }) {
         Recent Writing ✍️
       </h1>
       <div>
-        Check out more of my writing here.
+          Check out more of my writing <Link href="/notebook"><a>here</a></Link>.
         {posts.slice(0, 5).map((post, index) => {
           const { slug, subdir } = post
           return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} />

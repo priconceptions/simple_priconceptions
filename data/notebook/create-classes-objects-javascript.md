@@ -1,7 +1,7 @@
 ---
 title: 'OOP Series #2 - Creating Classes and Objects in Javascript'
 date: '2021-05-27'
-category: 'Javascript'
+category: 'Code diaries'
 description: 'How do we create classes and objects in Javascript?'
 tags:
   - javascript

@@ -1,7 +1,7 @@
 ---
 title: 'Comparing records in the same dataset and finding closest peers'
 date: '2021-12-13'
-category: 'Programming'
+category: 'Code diaries'
 description: 'How do we create classes and objects in Javascript?'
 tags:
   - pyspark

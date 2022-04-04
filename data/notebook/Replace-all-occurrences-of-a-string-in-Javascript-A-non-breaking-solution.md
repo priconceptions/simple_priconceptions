@@ -1,11 +1,12 @@
 ---
 title: 'Replace all occurrences of a string in Javascript + A non-breaking solution'
 date: '2021-05-26'
-category: 'Javascript'
+category: 'Code diaries'
 description: 'Replace all occurrences of a string in Javascript using the .replace method. A solution to using this method when the original string is null or undefined.'
 tags:
   - Modify a string
   - regular expressions
+  - javascript
 ---
 
 Say you have a string. You want to remove/replace all instances of a character in that string. You could use the `replace` method in Javascript.

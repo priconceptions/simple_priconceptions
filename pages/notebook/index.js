@@ -36,7 +36,7 @@ const Notebook = ({ posts, topics }) => {
             <div style={{marginTop: '20px'}}>
                 {posts.map((post, index) => {
                     const { slug, subdir } = post
-                    return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} />
+                    return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} tags={post.frontmatter.tags}/>
                 })}
             </div>
         </>
@@ -48,17 +48,18 @@ export default Notebook
 
 export async function getStaticProps() {
 
-    const nows = getPostsFrom('notebook')
+    const notebook = getPostsFrom('notebook')
     const newsletters = getPostsFrom('newsletters')
 
-    const allWriting = [...nows, ...newsletters].sort((post1, post2) => (post1.frontmatter.date > post2.frontmatter.date ? -1 : 1))
+    const allWriting = [...notebook, ...newsletters].sort((post1, post2) => (post1.frontmatter.date > post2.frontmatter.date ? -1 : 1))
 
-    let topics = [...nows, ...newsletters].filter(post => post.frontmatter.category && post.frontmatter.category != '').map(post => post.frontmatter.category)
-
+    let topics = [...notebook, ...newsletters].filter(post => post.frontmatter.category && post.frontmatter.category != '').map(post => post.frontmatter.category)
+    // let tags = [...notebook, ...newsletters].filter(post => post.frontmatter.tags).map(post => post.frontmatter.tags)
+    // tags = [...new Set(tags)]
     return {
         props: {
             posts: allWriting,
-            topics: topics
+            topics: topics,
         }
     }
 }

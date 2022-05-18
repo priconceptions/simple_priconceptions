@@ -11,9 +11,10 @@ src: url("/fonts/IBMPlexSans-Regular.ttf");
 
 body {
   margin: 0 auto;
-  max-width: 50em;
+  max-width: 650px;
   font-family: 'IBM Plex Sans', sans-serif;
-  line-height: 1.5;
+  line-height: 1.65;
+  /* font-size: 1rem; */
   padding: 4em 1em;
   background-color: #fffff8;
 }
@@ -167,3 +168,4 @@ button {
     font-size: 16px;
     font-family: inherit;
 }
+

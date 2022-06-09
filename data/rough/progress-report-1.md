@@ -3,6 +3,7 @@ title: "Progress Report #1: 2021-09-01 → 2021-09-15"
 date: '2021-09-15'
 category: 'projects'
 description: '120 days to validate, test, build, and market projects.'
+published: 'N'
 tags:
  - 120DayMBA
 ---

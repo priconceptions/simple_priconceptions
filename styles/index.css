@@ -11,10 +11,10 @@ src: url("/fonts/IBMPlexSans-Regular.ttf");
 
 body {
   margin: 0 auto;
-  max-width: 650px;
-  font-family: 'IBM Plex Sans', sans-serif;
+  max-width: 700px;
+  font-family: 'Helvetica', sans-serif;
   line-height: 1.65;
-  /* font-size: 1rem; */
+  font-size: 1.1rem;
   padding: 4em 1em;
   background-color: #fffff8;
 }
@@ -28,6 +28,7 @@ h1,
 h2,
 strong {
 color: #333;
+font-weight: 800;
 }
 
 /* code,
@@ -149,9 +150,10 @@ input[type="submit"] {
 }
 
 .post-card a {
-  font-size: 1.25rem;
+  font-size: 1.35rem;
+  font-weight: 800;
   text-decoration: none;
-  line-height: 1.5rem;
+  line-height: 1rem;
 }
 
 .post-card p {
@@ -160,12 +162,13 @@ input[type="submit"] {
 
 button {
     cursor: pointer;
-    padding-: 0.5rem;
+    padding: 0.5rem;
     margin-right: 5px;
     margin-bottom: 5px;
     border: 1px solid gray;
     border-radius: 2px;
     font-size: 16px;
     font-family: inherit;
+    border-radius: 4px;
 }
 

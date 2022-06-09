@@ -19,7 +19,7 @@ export default function Home({ posts }) {
         Welcome to my little corner of the internet 🌐
       </h2>
       <p>
-        About me--The TLDR version: I'm a software engineer and writer.
+        I am a software engineer at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>.
       </p>
       <h1>
         Recent Writing ✍️
@@ -33,12 +33,12 @@ export default function Home({ posts }) {
           return <PostCard key={index} {...post.frontmatter} subdir={subdir} slug={slug} />
         })}
       </div>
-      <h1>
+      {/* <h1>
         Now ⌛️
       </h1>
       <p>
         Check out what I'm up to <Link href="/now"><a>these days!</a></Link>
-      </p>
+      </p> */}
       <h1>
         Call me maybe? 📞
       </h1>

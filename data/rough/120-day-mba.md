@@ -2,6 +2,7 @@
 title: "I'm starting a 120 Day MBA Challenge"
 date: '2021-09-01'
 category: 'projects'
+published: 'N'
 description: '120 days to validate, test, build, and market projects.'
 tags:
  - projects

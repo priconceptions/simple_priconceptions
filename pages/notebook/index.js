@@ -1,3 +1,4 @@
+import Head from 'next/head';
 import React, {useState} from 'react'
 import PostCard from '../../components/PostCard'
 import { getPostsFrom } from '../../lib/api'
@@ -23,6 +24,9 @@ const Notebook = ({ posts, topics }) => {
 
     return (
         <>
+      <Head>
+        <title>Notebook</title>
+      </Head>
             <div>
                 <h3>Topics:</h3>
                 {topics.map((topic, index) => {

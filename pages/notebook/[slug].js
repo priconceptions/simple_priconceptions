@@ -4,10 +4,14 @@ import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
 import markdownToHtml from '../../lib/markdownToHtml'
+import Head from 'next/head'
 
 const Note = ({ frontmatter: { title, date }, slug, htmlContent }) => {
     return (
         <>
+            <Head>
+               <title>{title}</title>
+            </Head>
             <h1 className="post-title">{title}</h1>
             <time className="post-date">{date}</time>
             <div>

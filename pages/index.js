@@ -19,7 +19,8 @@ export default function Home({ posts }) {
         Welcome to my little corner of the internet 🌐
       </h2>
       <p>
-        I am a software engineer at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>.
+        I am a software engineer.
+        {/* at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>. */}
       </p>
       <h1>
         Recent Writing ✍️

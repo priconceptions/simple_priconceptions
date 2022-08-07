@@ -47,3 +47,4 @@ tags:
 -   [](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think?s=r)[https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think?s=r](https://drmaciver.substack.com/p/people-dont-work-as-much-as-you-think?s=r)
     
 -   [](https://neil.computer/notes/)[https://neil.computer/notes/](https://neil.computer/notes/) — i love ppl shitting on UI/UX — so much bad shit out there
+- (https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)[https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/]

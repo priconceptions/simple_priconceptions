@@ -15,11 +15,18 @@ export default function Home({ posts }) {
       <h1 >
         Hi, I'm Priyanka 👋
       </h1>
+      I am a software engineer.
       <h2>
         Welcome to my little corner of the internet 🌐
       </h2>
-      <p>
-        I am a software engineer.
+      <Image
+        src={"/postImages/honest_work.jpeg"}
+        alt="It ain't much but it's honest work."
+        width={800}
+        height={450}
+        layout="responsive"
+   />     
+    <p>
         {/* at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>. */}
       </p>
       <h1>

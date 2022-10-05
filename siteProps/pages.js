@@ -7,4 +7,8 @@ export default [
     //     link: '/now',
     //     title: 'Now'
     // }
+    // {
+    //     link: '/hi',
+    //     title: 'Say hi!'
+    // },
 ];

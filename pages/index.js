@@ -15,19 +15,19 @@ export default function Home({ posts }) {
       <h1 >
         Hi, I'm Priyanka 👋
       </h1>
-      I am a software engineer.
+      <p>I am a software engineer at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>.</p>
       <h2>
         Welcome to my little corner of the internet 🌐
       </h2>
-      <Image
+      {/* <Image
         src={"/postImages/honest_work.jpeg"}
         alt="It ain't much but it's honest work."
         width={800}
         height={450}
         layout="responsive"
-   />     
-    <p>
-        {/* at <Link href='https://www.wave.com/en/'>Wave Mobile Money</Link>. */}
+   />      */}
+      <p>
+        Here, I explain, think, practice, and complain (although I'm trying to do this less these days) 🙈
       </p>
       <h1>
         Recent Writing ✍️
@@ -48,9 +48,16 @@ export default function Home({ posts }) {
         Check out what I'm up to <Link href="/now"><a>these days!</a></Link>
       </p> */}
       <h1>
-        Call me maybe? 📞
+        Work with me on Focusmate 👩‍💻
       </h1>
-      <p>Message me on <Link href='https://twitter.com/priDhulkhed'><a>Twitter</a></Link> or through <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email</a></Link>!</p>
+      <p>
+        How Focusmate works-- you book 25/50 minute sessions and get paired with random people on the platform. I usually work in 25 minute sessions and this platform has been invaluable to my sanity.
+      </p>
+      <p>Book sessions and work with me <Link href='https://www.focusmate.com/i/NVx59ZDMqI'><a>here</a></Link>!</p>
+      <h1>
+        Say hi! 📞
+      </h1>
+      <p>Message me on <Link href='https://twitter.com/priDhulkhed'><a>Twitter</a></Link> or <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email me</a></Link>!</p>
     </>
   )
 }

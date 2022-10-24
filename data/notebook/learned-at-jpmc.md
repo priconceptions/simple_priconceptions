@@ -1,7 +1,7 @@
 ---
 title: 'Everything I learned in 2 years at JPMorgan'
 date: '2021-12-06'
-category: 'Misc'
+category: 'Miscellaneous'
 description: 'An incomplete, growing list of everything I learned in 2 years at JPMorgan'
 tags:
   - thoughts

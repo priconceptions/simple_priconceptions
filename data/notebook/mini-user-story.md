@@ -1,7 +1,7 @@
 ---
 title: 'A mini user story'
 date: '2022-10-20'
-category: 'Misc'
+category: 'Miscellaneous'
 description: 'A small user story about people getting excited over new app features'
 tags:
   - Wave

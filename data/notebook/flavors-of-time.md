@@ -7,6 +7,8 @@ tags:
   - thoughts
 ---
 
+There are many flavors of time.
+
 There's work time and there's wander time.
 
 Work time should be measured, evaluated, and analyzed.

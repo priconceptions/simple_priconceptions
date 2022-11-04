@@ -8,10 +8,11 @@ tags:
 ---
 
 ![Jon Snow and Ygritte looking over Westeros after they climbed the wall](/postImages/the-climb.jpeg)
+<cite>The Climb (S3 E6) - Game of Thrones</cite>
 
 > Chaos isn’t a pit. Chaos is a ladder. Many who try to climb it fail and never get to try again. The fall breaks them. And some, are given a chance to climb. They refuse, they cling to the realm or the gods or love. Illusions. Only the ladder is real. The climb is all there is.
 > 
-> -- <cite>Petyr ‘Littlefinger’ Baelish</cite>
+>  <cite>Petyr ‘Littlefinger’ Baelish</cite>
 
 
 I woke up this morning thinking about this epic scene from _Game of Thrones_. There are two takeaways from this dialogue:

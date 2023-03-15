@@ -1,7 +1,7 @@
 ---
 title: 'What I don’t like about working at a remote job'
 date: '2022-07-21'
-category: 'Thoughts'
+category: 'Word Vomit'
 description: ''
 tags:
   - thoughts

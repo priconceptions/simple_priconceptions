@@ -1,7 +1,7 @@
 ---
 title: 'Just watched the House of the Dragon season finale'
 date: '2022-10-24'
-category: 'Miscellaneous'
+category: 'Word Vomit'
 description: ''
 tags:
   - thoughts

@@ -1,7 +1,7 @@
 ---
 title: 'My Favorite Writing App'
 date: '2022-10-21'
-category: 'Thoughts'
+category: 'Word Vomit'
 description: 'My favorite writing app is the Most Dangerous Writing app.'
 tags:
   - writing

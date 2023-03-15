@@ -1,7 +1,7 @@
 ---
 title: 'Restarting a daily writing habit'
 date: '2022-10-19'
-category: 'Thoughts'
+category: 'Word Vomit'
 description: 'I am going to write everyday until the end of year.'
 tags:
   - writing

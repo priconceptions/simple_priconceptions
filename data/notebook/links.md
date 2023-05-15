@@ -49,3 +49,4 @@ tags:
 -   [](https://neil.computer/notes/)[https://neil.computer/notes/](https://neil.computer/notes/) — i love ppl shitting on UI/UX — so much bad shit out there
 - (https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)[https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/]
 - [Reddit comment about getting disciplined](https://www.reddit.com/r/AskReddit/comments/1ndbx1/what_can_a_21_year_old_do_now_that_will_help/cchkybp/)
+- [Life Left](https://www.hobartpulp.com/web_features/life-left): On selling and buying used things on Craiglist

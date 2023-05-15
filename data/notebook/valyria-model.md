@@ -16,4 +16,6 @@ It's just something he does.
 
 We don't do enough of things that serve no purpose. I've lost touch of doing things just because I like doing them. I'm worried that as a result, I'll end up not liking doing anything.
 
+People hate on programmers who spend hours stitching together hundreds of libraries for their blogs. I wonder i
+
 I want this blog to be like Viserys' miniature Valyria-- serves no purpose but it's just something I do.  

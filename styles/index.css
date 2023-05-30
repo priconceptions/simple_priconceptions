@@ -292,3 +292,9 @@ img {
 .notebook-topics-section h4 {
   margin-bottom: 0.5em;
 }
+
+@media only screen and (max-width: 768px) {
+  .nav-banner h2 {
+    display: none;
+  }
+}

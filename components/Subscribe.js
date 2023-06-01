@@ -1,4 +1,5 @@
 import React, { useState, useRef } from 'react';
+import Link from 'next/link';
 
 const Subscribe = () => {
     const emailRef = useRef(null);
@@ -50,11 +51,11 @@ const Subscribe = () => {
             <form onSubmit={submitEmail}>
                 <label>
                     Email address:
-                    <input type="email" name="email" required ref={emailRef} />
+                    <input className='email-input' type="email" name="email" required ref={emailRef} />
                 </label>
-                <input type="submit" value="Submit" />
+                <input className='subscribe-button' type="submit" value={loading ? "..." : "Submit"} />
             </form>
-            {err && <small className="subscribe-err">Oops! Something happened... {err}</small>}
+            {err && <small className="subscribe-err">Oops! That didn't work... {err}. If this keeps happening, please <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email me</a></Link>.</small>}
             {(loading && !err) && <small className='subscribe-success'>Thank you for subscribing!</small>}
         </div>
     )

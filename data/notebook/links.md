@@ -49,3 +49,11 @@ tags:
 -   [](https://neil.computer/notes/)[https://neil.computer/notes/](https://neil.computer/notes/) — i love ppl shitting on UI/UX — so much bad shit out there
 - (https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/)[https://blog.pragmaticengineer.com/how-to-become-a-full-time-creator/]
 - [Reddit comment about getting disciplined](https://www.reddit.com/r/AskReddit/comments/1ndbx1/what_can_a_21_year_old_do_now_that_will_help/cchkybp/)
+- [An old man's advice](https://www.youtube.com/watch?v=9fvETktnaRw)
+- Memorization
+	- [ In Praise of Memorization](https://www.pearlleff.com/in-praise-of-memorization)
+	- [How I Rewired My Brain to Become Fluent in Math](https://nautil.us/how-i-rewired-my-brain-to-become-fluent-in-math-2-237425/?_sp=d7dcc38f-51b4-4cd0-bb93-40b326691626.1686517160104)
+- Speed
+	- [Speed Matters](https://jsomers.net/blog/speed-matters)
+	- 
+- 

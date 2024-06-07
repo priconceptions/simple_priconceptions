@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities; */
 @import "prism.css";
-/* @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
 
 @font-face {
   font-family: "IBM Plex Sans";
@@ -11,10 +11,10 @@
 
 body {
   margin: 0 auto;
-  max-width: 650px;
-  font-family: '-apple-system', sans-serif;
+  max-width: 800px;
+  font-family: "IBM Plex Sans";
   line-height: 1.65;
-  font-size: 1.2rem;
+  /* font-size: 1rem; */
   padding: 4em 1em;
   background-color: #fdf2f880;
   color: #1e293b;
@@ -198,14 +198,28 @@ a:visited {
   color: #be185d;
 } */
 
+time {
+  font-size: 0.8rem;
+  font-style: normal;
+}
+
+.post-title {
+  margin-bottom: 0
+}
+
+.post-date {
+  color: #696969;
+  font-style: italic;
+}
+
 .post-card {
   display: flex;
   flex-direction: column;
-  margin-bottom: 1.75rem;
+  margin-bottom: 0.8rem;
 }
 
 .post-card a {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: 900;
   text-decoration: none;
   color: #831843;

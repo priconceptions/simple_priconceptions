@@ -3,6 +3,7 @@ title: 'Building an MVP without any styles'
 date: '2021-12-14'
 category: 'Code diaries'
 description: 'Focus on building out the entire functionality before worrying about how the app looks.'
+publish: true
 tags:
   - webdev
   - tools

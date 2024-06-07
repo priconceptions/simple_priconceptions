@@ -3,6 +3,7 @@ title: 'OOP Series #1 - Objects in Javascript'
 date: '2021-05-10'
 category: 'Code diaries'
 description: 'The fundamentals of Object Oriented Programming. What are objects? What are classes? Create a basic object from a class.'
+publish: true
 tags:
   - javascript
   - object oriented programming

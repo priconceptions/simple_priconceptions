@@ -3,6 +3,7 @@ title: 'Take more videos'
 date: '2023-03-15'
 category: 'Word Vomit'
 description: ''
+publish: true
 tags:
   - directives
 ---

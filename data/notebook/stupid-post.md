@@ -3,6 +3,7 @@ title: 'Stupid post for my stupid streak'
 date: '2022-11-04'
 category: 'Writing'
 description: ''
+publish: false
 tags:
   - thoughts
   - writing

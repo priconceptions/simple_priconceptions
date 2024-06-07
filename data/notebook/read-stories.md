@@ -3,6 +3,7 @@ title: 'Need life advice? Read stories'
 date: '2022-01-19'
 category: 'Word Vomit'
 description: 'The best way to internalize an idea is to learn it through your experiences. The second best way is to learn it through someone else’s story.'
+publish: false
 tags:
   - thoughts
 ---

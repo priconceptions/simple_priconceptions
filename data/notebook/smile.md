@@ -3,6 +3,7 @@ title: 'Eyes up, back straight, smile'
 date: '2021-12-04'
 category: 'Word Vomit'
 description: 'When I was a runner in high school, during my races, my coach used to scream at me--"EYES UP, BACK STRAIGHT, SMIIIILE". In my dazed state, I would do exactly that, pleasantly find myself feeling better, and eventually pass the girl ahead of me.'
+publish: false
 tags:
   - thoughts
 ---

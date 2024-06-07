@@ -13,7 +13,7 @@ const Note = ({ frontmatter: { title, date }, slug, htmlContent }) => {
                <title>{title}</title>
             </Head>
             <h1 className="post-title">{title}</h1>
-            <time className="post-date">{date}</time>
+            <time className="post-date">Published on {date}</time>
             <div>
                 <div dangerouslySetInnerHTML={{ __html: htmlContent }}></div>
             </div>

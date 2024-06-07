@@ -3,6 +3,7 @@ title: 'The climb is all there is'
 date: '2022-11-03'
 category: 'Word Vomit'
 description: ''
+publish: false
 tags:
   - thoughts
 ---

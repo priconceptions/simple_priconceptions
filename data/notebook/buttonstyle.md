@@ -3,6 +3,7 @@ title: 'Styling Buttons and NavigationLinks with ButtonStyle in SwiftUI'
 date: '2022-05-17'
 category: 'Code diaries'
 description: 'Use ButtonStyle configurations to create custom buttons and NavigationLinks in your IOS app'
+publish: true
 tags:
   - swiftUI
   - ios_developement

@@ -3,6 +3,7 @@ title: 'Replace all occurrences of a string in Javascript + A non-breaking solut
 date: '2021-05-26'
 category: 'Code diaries'
 description: 'Replace all occurrences of a string in Javascript using the .replace method. A solution to using this method when the original string is null or undefined.'
+publish: true
 tags:
   - Modify a string
   - regular expressions

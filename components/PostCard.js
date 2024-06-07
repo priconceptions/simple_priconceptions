@@ -9,6 +9,9 @@ const PostCard = ({ title, date, description, tags, subdir, slug }) => {
                     <Link href={`/${subdir}/${slug}`}>
                         <a>{title}</a>
                     </Link>
+                    <time>
+                        {date}
+                    </time>
                     <span>
                         {tags && tags.map((tag, index) => <small key={index} style={{ marginRight: "4px", fontStyle: "italic" }}>#{tag}</small>)}
                     </span>

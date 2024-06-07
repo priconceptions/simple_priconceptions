@@ -1,18 +1,14 @@
 /* @tailwind base;
 @tailwind components;
 @tailwind utilities; */
-@import "prism.css";
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&display=swap');
 
-@font-face {
-  font-family: "IBM Plex Sans";
-  src: url("/fonts/IBMPlexSans-Regular.ttf");
-}
+@import "prism.css";
 
 body {
   margin: 0 auto;
   max-width: 800px;
-  font-family: "IBM Plex Sans";
+  font-family: 'IBM Plex Sans', sans-serif;
   line-height: 1.65;
   /* font-size: 1rem; */
   padding: 4em 1em;
@@ -247,7 +243,7 @@ button {
   margin-right: 5px;
   margin-bottom: 5px;
   border: 1.5px solid black;
-  border-radius: 99px;
+  border-radius: 5px;
   font-size: 16px;
   font-family: inherit;
   position: relative;

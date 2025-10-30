@@ -39,6 +39,7 @@ export default function Streaks() {
           {year}
           {months.map((month) => (
             <div
+              key={month.name + year}
               style={{
                 fontSize: "1.1rem",
                 fontWeight: "600",

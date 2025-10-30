@@ -9,9 +9,9 @@ export default function Header() {
                 <div className='nav-banner'>
                     <Image
                         src={"/favicons/apple-touch-icon.png"}
-                        alt="pirconceptions image"
-                        width={50}
-                        height={50}
+                        alt="priconceptions image"
+                        width={40}
+                        height={40}
                         className='nav-banner-icon'
                     />
                     <h2>priconceptions</h2>

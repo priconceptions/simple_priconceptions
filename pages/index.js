@@ -13,7 +13,7 @@ export default function Home({ posts }) {
         <title>Priyanka's internet home.</title>
       </Head>
       <h1 >
-        👋 Hi, I'm Priyanka
+        Hi, I'm Priyanka!
       </h1>
       <p>
       <i>
@@ -28,15 +28,15 @@ export default function Home({ posts }) {
         layout="responsive"
    />      */}
       <p>
-        Here, I explain, think, practice, and complain (although I'm trying to do this less these days) 🙈
+        This is a space dedicated to remembering my learnings, thoughts, and days.
       </p>
       <h2>
         Work with me on Focusmate
       </h2>
       <p>
-        How Focusmate works-- you book 25/50 minute sessions and get paired with random people on the platform. I usually work in 25 minute sessions and this platform has been invaluable to my sanity.
+        How Focusmate works-- you book 25/50/75 minute sessions and get paired with random people on the platform. I usually work in 25 minute sessions and this platform has been invaluable to my sanity.
       </p>
-      <p>Book sessions and work with me <Link href='https://www.focusmate.com/i/NVx59ZDMqI'><a>here</a></Link>!</p>
+      <p>Book sessions and work with me <Link href='https://www.focusmate.com/i/NVx59ZDMqI'><a>here</a></Link>.</p>
       {/* <h1>
         Recent Writing
       </h1> */}
@@ -53,12 +53,12 @@ export default function Home({ posts }) {
         Now ⌛️
       </h2>
       <p>
-        Check out what I'm up to <Link href="/now"><a>these days!</a></Link>
+        Check out what I'm up to <Link href="/now"><a>these days.</a></Link>
       </p>
       <h2>
         Say hi!
       </h2>
-      <p><Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>Email me</a></Link>!</p>
+      <p><Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>Email me</a></Link></p>
     </>
   )
 }

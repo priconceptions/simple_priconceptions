@@ -28,7 +28,7 @@ const Notebook = ({ posts, topics }) => {
             <Head>
                 <title>Notebook</title>
             </Head>
-            <h1>Notes</h1>
+            {/* <h1>Notes</h1> */}
             <div className='notebook-topics-section'>
                 <h4>Topics:</h4>
                 {topics.map((topic, index) => {

@@ -1,5 +1,5 @@
 ---
-title: 'A calming morning routine to manage IBS'
+title: 'A calming morning routine + an overnight oats recipe'
 date: '2023-07-06'
 category: 'Recipes'
 description: ''

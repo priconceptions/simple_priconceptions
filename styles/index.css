@@ -7,12 +7,12 @@
 
 body {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 650px;
   font-family: 'IBM Plex Sans', sans-serif;
   line-height: 1.65;
   /* font-size: 1rem; */
   padding: 4em 1em;
-  background-color: #fdf2f880;
+  background-color: #fff8ef;
   color: #1e293b;
 }
 
@@ -62,7 +62,7 @@ border-left: 2px solid #69c;
 
 .nav-banner-icon {
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 .nav-links {
@@ -84,7 +84,7 @@ border-left: 2px solid #69c;
   background: none;
   display: flex;
   justify-content: space-between;
-  padding-bottom: 1em;
+  padding-bottom: 0.8em;
   margin-bottom: 2em;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
@@ -208,18 +208,36 @@ time {
   font-style: italic;
 }
 
+/* Updated post card styles for inline date layout */
 .post-card {
   display: flex;
-  flex-direction: column;
-  margin-bottom: 0.8rem;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 0.3rem;
+  margin-bottom: 0.2rem;
+}
+
+.post-card time {
+  /* background-color: #f1f5f9; */
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
+  padding: 0.15rem 0.3rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #505c6d;
+  font-style: normal;
+  white-space: nowrap;
+  flex-shrink: 0;
 }
 
 .post-card a {
-  font-size: 1.2rem;
-  font-weight: 900;
+  font-size: 1.1rem;
+  font-weight: 600;
   text-decoration: none;
   color: #831843;
   border-bottom: 0px solid #831843;
+  margin: 0;
+  flex-grow: 1;
 }
 
 /* .post-card a:visited {
@@ -231,15 +249,11 @@ time {
   margin-block-end: 0.2em;
 }
 
-.post-card-date {
-  /* border-radius: 99px; */
-}
-
 .post-card-tag {}
 
 button {
   cursor: pointer;
-  padding: 0.4rem 0.8rem;
+  padding: 0.2rem 0.4rem;
   margin-right: 5px;
   margin-bottom: 5px;
   border: 1.5px solid black;
@@ -306,5 +320,16 @@ img {
 @media only screen and (max-width: 768px) {
   .nav-banner h2 {
     display: none;
+  }
+  
+  /* Stack date and title on mobile */
+  .post-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .post-card time {
+    align-self: flex-start;
   }
 }

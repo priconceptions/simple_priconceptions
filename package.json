@@ -2,12 +2,13 @@
   "name": "simple_priconceptions",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "node scripts/generate-rss.mjs && next dev",
+    "build": "node scripts/generate-rss.mjs && next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "feed": "^5.2.0",
     "gray-matter": "^4.0.3",
     "marked": "^4.0.9",
     "next": "12.0.7",

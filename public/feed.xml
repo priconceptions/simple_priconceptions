@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>priconceptions</title>
+        <link>https://priconceptions.com</link>
+        <description>Priyanka's blog</description>
+        <lastBuildDate>Fri, 24 Apr 2026 20:27:36 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[2025-W45]]></title>
+            <link>https://priconceptions.com/notebook/2025-W45</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/2025-W45</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Week note 2025-W44]]></description>
+            <category>Week notes</category>
+        </item>
+        <item>
+            <title><![CDATA[2025-W44]]></title>
+            <link>https://priconceptions.com/notebook/2025-W44</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/2025-W44</guid>
+            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Week note 2025-W44]]></description>
+            <category>Week notes</category>
+        </item>
+        <item>
+            <title><![CDATA[A calming morning routine + an overnight oats recipe]]></title>
+            <link>https://priconceptions.com/notebook/morning-routine</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/morning-routine</guid>
+            <pubDate>Thu, 06 Jul 2023 00:00:00 GMT</pubDate>
+            <category>Recipes</category>
+        </item>
+        <item>
+            <title><![CDATA[Take more videos]]></title>
+            <link>https://priconceptions.com/notebook/take-videos</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/take-videos</guid>
+            <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[All the flavors of time]]></title>
+            <link>https://priconceptions.com/notebook/flavors-of-time</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/flavors-of-time</guid>
+            <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Work time, wander time, chore time, and dead time]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to Jetpack Compose]]></title>
+            <link>https://priconceptions.com/notebook/introduction-to-jetpack-compose</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/introduction-to-jetpack-compose</guid>
+            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A brief introduction to Jetpack compose]]></description>
+            <category>Android</category>
+        </item>
+        <item>
+            <title><![CDATA[My Favorite Writing App]]></title>
+            <link>https://priconceptions.com/notebook/favorite-writing-app</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/favorite-writing-app</guid>
+            <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[My favorite writing app is the Most Dangerous Writing app.]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[A mini user story]]></title>
+            <link>https://priconceptions.com/notebook/mini-user-story</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/mini-user-story</guid>
+            <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A small user story about people getting excited over new app features]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Restarting a daily writing habit]]></title>
+            <link>https://priconceptions.com/notebook/start-writing-everyday</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/start-writing-everyday</guid>
+            <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[I am going to write everyday until the end of year.]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Styling Buttons and NavigationLinks with ButtonStyle in SwiftUI]]></title>
+            <link>https://priconceptions.com/notebook/buttonstyle</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/buttonstyle</guid>
+            <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Use ButtonStyle configurations to create custom buttons and NavigationLinks in your IOS app]]></description>
+            <category>Code diaries</category>
+        </item>
+        <item>
+            <title><![CDATA[Yet another Pomodoro article]]></title>
+            <link>https://priconceptions.com/notebook/pomodoro</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/pomodoro</guid>
+            <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Pomodoro-ing has been working really well over the last couple of months. Here are some additional rules and benefits I have discovered.]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Links and Thoughts]]></title>
+            <link>https://priconceptions.com/notebook/links</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/links</guid>
+            <pubDate>Thu, 14 Apr 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[A list of content that I like and my thoughts on them]]></description>
+            <category>Lists</category>
+        </item>
+        <item>
+            <title><![CDATA[The Streetlight Parable]]></title>
+            <link>https://priconceptions.com/notebook/streetlight-parable</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/streetlight-parable</guid>
+            <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Yesterday, I finally started using my company-sponsered Calm subscription. I started with the 10-minute basic meditation and heard this story]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Building an MVP without any styles]]></title>
+            <link>https://priconceptions.com/notebook/designless-mvp</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/designless-mvp</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Focus on building out the entire functionality before worrying about how the app looks.]]></description>
+            <category>Code diaries</category>
+        </item>
+        <item>
+            <title><![CDATA[Comparing records in the same dataset and finding closest peers]]></title>
+            <link>https://priconceptions.com/notebook/database-comparisons-on-itself</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/database-comparisons-on-itself</guid>
+            <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do we create classes and objects in Javascript?]]></description>
+            <category>Code diaries</category>
+        </item>
+        <item>
+            <title><![CDATA[Bad tools are a major happiness drain]]></title>
+            <link>https://priconceptions.com/notebook/bad-tools</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/bad-tools</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The thing about bad tools is that it not only hurts your productivity in the short term. It insidiously hurts your long-term happiness.]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[Everything I learned in 2 years at JPMorgan]]></title>
+            <link>https://priconceptions.com/notebook/learned-at-jpmc</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/learned-at-jpmc</guid>
+            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[An incomplete, growing list of everything I learned in 2 years at JPMorgan]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[The Path to Enlightenment]]></title>
+            <link>https://priconceptions.com/notebook/enlightenment</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/enlightenment</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The path to enlightenment is scrubbing the dirty dishes, debugging that gnarly piece of code, and sweeping up fallen leaves yourself]]></description>
+            <category>Word Vomit</category>
+        </item>
+        <item>
+            <title><![CDATA[OOP Series #2 - Creating Classes and Objects in Javascript]]></title>
+            <link>https://priconceptions.com/notebook/create-classes-objects-javascript</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/create-classes-objects-javascript</guid>
+            <pubDate>Thu, 27 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[How do we create classes and objects in Javascript?]]></description>
+            <category>Code diaries</category>
+        </item>
+        <item>
+            <title><![CDATA[Replace all occurrences of a string in Javascript + A non-breaking solution]]></title>
+            <link>https://priconceptions.com/notebook/Replace-all-occurrences-of-a-string-in-Javascript-A-non-breaking-solution</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/Replace-all-occurrences-of-a-string-in-Javascript-A-non-breaking-solution</guid>
+            <pubDate>Wed, 26 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Replace all occurrences of a string in Javascript using the .replace method. A solution to using this method when the original string is null or undefined.]]></description>
+            <category>Code diaries</category>
+        </item>
+        <item>
+            <title><![CDATA[OOP Series #1 - Objects in Javascript]]></title>
+            <link>https://priconceptions.com/notebook/objects-in-javascript</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/objects-in-javascript</guid>
+            <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[The fundamentals of Object Oriented Programming. What are objects? What are classes? Create a basic object from a class.]]></description>
+            <category>Code diaries</category>
+        </item>
+    </channel>
+</rss>

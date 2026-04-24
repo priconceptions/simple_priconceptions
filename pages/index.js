@@ -12,24 +12,15 @@ export default function Home({ posts }) {
       <Head>
         <title>Priyanka's internet home.</title>
       </Head>
-      <h1 >
-        Hi, I'm Priyanka!
-      </h1>
-      <p>
+      <h1>
       <i>
-        Welcome to my little corner of the internet
+        Welcome to my online home
       </i>
-      </p>
-      {/* <Image
-        src={"/postImages/honest_work.jpeg"}
-        alt="It ain't much but it's honest work."
-        width={800}
-        height={450}
-        layout="responsive"
-   />      */}
+      </h1>
       <p>
         This is a space dedicated to remembering my learnings, thoughts, and days.
       </p>
+      <p><i>I write to forget things now and remember them tomorrow. </i></p>
       <h2>
         Work with me on Focusmate
       </h2>
@@ -50,15 +41,15 @@ export default function Home({ posts }) {
         })}
       </div> */}
       <h2>
-        Now ⌛️
+        Now
       </h2>
       <p>
         Check out what I'm up to <Link href="/now"><a>these days.</a></Link>
       </p>
       <h2>
-        Say hi!
+        Say hi
       </h2>
-      <p><Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>Email me</a></Link></p>
+      <p> I don't track anything on this site so the only way I'll know you're here is if you sign <Link href="/guestbook"><a>the guestbook</a></Link> or <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email me</a></Link>.</p>
     </>
   )
 }

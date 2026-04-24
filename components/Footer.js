@@ -5,7 +5,7 @@ import Link from 'next/link';
 const Footer = () => {
     return (
         <footer>
-            <p>Get in touch through <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email</a></Link>!</p>
+            <p>Get in touch through <Link href='mailto:someone@priyankapdhavingfun@gmail.com'><a>email</a></Link>! | <a href="/feed.xml">RSS</a></p>
             <Subscribe />
         </footer>
     )

@@ -4,10 +4,17 @@
         <title>priconceptions</title>
         <link>https://priconceptions.com</link>
         <description>Priyanka's blog</description>
-        <lastBuildDate>Fri, 24 Apr 2026 20:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jun 2026 21:49:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[3 months of low screentime later...]]></title>
+            <link>https://priconceptions.com/notebook/foqos</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/foqos</guid>
+            <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
+            <category>Word Vomit</category>
+        </item>
         <item>
             <title><![CDATA[2025-W45]]></title>
             <link>https://priconceptions.com/notebook/2025-W45</link>

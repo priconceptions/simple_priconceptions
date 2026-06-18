@@ -11,10 +11,10 @@ export default [
     //     link: '/bookmarks',
     //     title: 'Bookmarks'
     // },
-    {
-        link: '/guestbook',
-        title: 'Guestbook'
-    },
+    // {
+    //     link: '/guestbook',
+    //     title: 'Guestbook'
+    // },
     // {
     //     link: '/hi',
     //     title: 'Say hi!'

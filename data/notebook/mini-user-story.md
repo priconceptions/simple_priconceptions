@@ -1,7 +1,7 @@
 ---
 title: 'A mini user story'
 date: '2022-10-20'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'A small user story about people getting excited over new app features'
 publish: true
 tags:

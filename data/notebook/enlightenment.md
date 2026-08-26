@@ -1,7 +1,7 @@
 ---
 title: 'The Path to Enlightenment'
 date: '2021-12-02'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'The path to enlightenment is scrubbing the dirty dishes, debugging that gnarly piece of code, and sweeping up fallen leaves yourself'
 publish: true
 tags:

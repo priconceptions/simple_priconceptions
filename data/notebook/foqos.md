@@ -1,7 +1,7 @@
 ---
 title: '6 months of low screentime later...'
 date: '2026-06-04'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: ''
 publish: true
 tags:

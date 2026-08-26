@@ -1,7 +1,7 @@
 ---
 title: 'Yet another Pomodoro article'
 date: '2022-05-04'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'Pomodoro-ing has been working really well over the last couple of months. Here are some additional rules and benefits I have discovered.'
 publish: true
 tags:

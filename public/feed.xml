@@ -4,16 +4,16 @@
         <title>priconceptions</title>
         <link>https://priconceptions.com</link>
         <description>Priyanka's blog</description>
-        <lastBuildDate>Thu, 04 Jun 2026 21:49:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Sep 2026 21:40:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[3 months of low screentime later...]]></title>
+            <title><![CDATA[6 months of low screentime later...]]></title>
             <link>https://priconceptions.com/notebook/foqos</link>
             <guid isPermaLink="false">https://priconceptions.com/notebook/foqos</guid>
             <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[2025-W45]]></title>
@@ -43,7 +43,7 @@
             <link>https://priconceptions.com/notebook/take-videos</link>
             <guid isPermaLink="false">https://priconceptions.com/notebook/take-videos</guid>
             <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[All the flavors of time]]></title>
@@ -51,15 +51,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/flavors-of-time</guid>
             <pubDate>Wed, 02 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Work time, wander time, chore time, and dead time]]></description>
-            <category>Word Vomit</category>
-        </item>
-        <item>
-            <title><![CDATA[Introduction to Jetpack Compose]]></title>
-            <link>https://priconceptions.com/notebook/introduction-to-jetpack-compose</link>
-            <guid isPermaLink="false">https://priconceptions.com/notebook/introduction-to-jetpack-compose</guid>
-            <pubDate>Tue, 25 Oct 2022 00:00:00 GMT</pubDate>
-            <description><![CDATA[A brief introduction to Jetpack compose]]></description>
-            <category>Android</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[My Favorite Writing App]]></title>
@@ -67,7 +59,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/favorite-writing-app</guid>
             <pubDate>Fri, 21 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[My favorite writing app is the Most Dangerous Writing app.]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[A mini user story]]></title>
@@ -75,7 +67,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/mini-user-story</guid>
             <pubDate>Thu, 20 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[A small user story about people getting excited over new app features]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[Restarting a daily writing habit]]></title>
@@ -83,7 +75,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/start-writing-everyday</guid>
             <pubDate>Wed, 19 Oct 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[I am going to write everyday until the end of year.]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[Styling Buttons and NavigationLinks with ButtonStyle in SwiftUI]]></title>
@@ -99,7 +91,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/pomodoro</guid>
             <pubDate>Wed, 04 May 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Pomodoro-ing has been working really well over the last couple of months. Here are some additional rules and benefits I have discovered.]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[Links and Thoughts]]></title>
@@ -115,7 +107,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/streetlight-parable</guid>
             <pubDate>Tue, 25 Jan 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Yesterday, I finally started using my company-sponsered Calm subscription. I started with the 10-minute basic meditation and heard this story]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[Building an MVP without any styles]]></title>
@@ -139,7 +131,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/bad-tools</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[The thing about bad tools is that it not only hurts your productivity in the short term. It insidiously hurts your long-term happiness.]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[Everything I learned in 2 years at JPMorgan]]></title>
@@ -147,7 +139,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/learned-at-jpmc</guid>
             <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[An incomplete, growing list of everything I learned in 2 years at JPMorgan]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[The Path to Enlightenment]]></title>
@@ -155,7 +147,7 @@
             <guid isPermaLink="false">https://priconceptions.com/notebook/enlightenment</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[The path to enlightenment is scrubbing the dirty dishes, debugging that gnarly piece of code, and sweeping up fallen leaves yourself]]></description>
-            <category>Word Vomit</category>
+            <category>Thoughts</category>
         </item>
         <item>
             <title><![CDATA[OOP Series #2 - Creating Classes and Objects in Javascript]]></title>

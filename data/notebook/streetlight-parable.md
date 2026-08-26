@@ -1,7 +1,7 @@
 ---
 title: 'The Streetlight Parable'
 date: '2022-01-25'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'Yesterday, I finally started using my company-sponsered Calm subscription. I started with the 10-minute basic meditation and heard this story'
 publish: true
 tags:

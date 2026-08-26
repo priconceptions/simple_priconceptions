@@ -1,7 +1,7 @@
 ---
 title: 'Bad tools are a major happiness drain'
 date: '2021-12-07'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'The thing about bad tools is that it not only hurts your productivity in the short term. It insidiously hurts your long-term happiness.'
 publish: true
 tags:

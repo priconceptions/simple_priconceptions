@@ -1,7 +1,7 @@
 ---
 title: 'Take more videos'
 date: '2023-03-15'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: ''
 publish: true
 tags:

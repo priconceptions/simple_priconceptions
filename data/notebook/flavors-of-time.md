@@ -1,7 +1,7 @@
 ---
 title: 'All the flavors of time'
 date: '2022-11-02'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: 'Work time, wander time, chore time, and dead time'
 publish: true
 tags:

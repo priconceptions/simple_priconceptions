@@ -1,7 +1,7 @@
 ---
 title: 'The climb is all there is'
 date: '2022-11-03'
-category: 'Word Vomit'
+category: 'Thoughts'
 description: ''
 publish: false
 tags:

@@ -10,7 +10,8 @@ body {
   line-height: 1.65;
   /* font-size: 1rem; */
   padding: 4em 1em;
-  background-color: #fffbf2;
+  background-color: #fff8f8;
+  /* background-color: #fffbf2; */
   color: #073642;
 }
 
@@ -179,10 +180,10 @@ input[type="submit"]:hover {
 }
 
 a {
-  color: #2672a4;
+  color: #4326a4;
   text-decoration: none;
   font-weight: 600;
-  /* border-bottom: 1px solid #2672a4; */
+  /* border-bottom: 1px solid #4326a4; */
 }
 
 /* 
@@ -210,7 +211,10 @@ time {
   flex-direction: row;
   align-items: baseline;
   gap: 1rem;
-  margin-bottom: 0.2rem;
+  padding-bottom: 0.75rem;
+  padding-top: 0.75rem;
+
+  border-bottom: 1px dotted rgba(88, 110, 117, 0.2)
 }
 
 .post-card time {
@@ -227,14 +231,20 @@ time {
   width: 5.5rem;
   text-align: center;
   box-sizing: border-box;
+  display: inline-block;
 }
 
-.post-card a {
+.post-card-date-link {
+  flex-shrink: 0;
+  text-decoration: none;
+}
+
+.post-card-body > a {
   font-size: 1.1rem;
   font-weight: 600;
   text-decoration: none;
-  color: #2672a4;
-  border-bottom: 0px solid #2672a4;
+  color: #4326a4;
+  border-bottom: 0px solid #4326a4;
   margin: 0;
   flex-grow: 1;
 }
@@ -243,9 +253,34 @@ time {
   color: #be185d;
 } */
 
+.post-card-body {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 0;
+}
+
 .post-card p {
   margin-block-start: 0.2em;
   margin-block-end: 0.2em;
+}
+
+.post-card-description {
+  font-size: 0.9rem;
+  color: #657b83;
+}
+
+.post-card-snippet {
+  font-size: 1rem;
+}
+
+.post-card-snippet p {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+
+.post-card-snippet > :first-child {
+  margin-block-start: 0.2em;
 }
 
 .post-card-tag {}
@@ -266,7 +301,7 @@ button {
 }
 
 button:hover {
-  box-shadow: 3px 3px 0 0 #2672a4;
+  box-shadow: 3px 3px 0 0 #4326a4;
   -webkit-transform: translate(-0.25rem, -0.25rem);
   -ms-transform: translate(-0.25rem, -0.25rem);
   transform: translate(-0.25rem, -0.25rem);
@@ -282,7 +317,7 @@ button:hover {
   font-family: inherit;
   position: relative;
   transition: all 140ms cubic-bezier(.25, .46, .45, .94);
-  background-color: #2672a4;
+  background-color: #4326a4;
   color: #ffffff;
 }
 

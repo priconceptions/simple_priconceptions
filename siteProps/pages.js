@@ -1,7 +1,7 @@
 export default [
     {
-        link: '/notebook',
-        title: 'Notebook'
+        link: '/about',
+        title: 'About'
     },
     {
         link: '/now',

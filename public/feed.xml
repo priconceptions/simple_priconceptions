@@ -4,10 +4,17 @@
         <title>priconceptions</title>
         <link>https://priconceptions.com</link>
         <description>Priyanka's blog</description>
-        <lastBuildDate>Thu, 10 Sep 2026 21:40:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Sep 2026 20:52:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Small living adjustments]]></title>
+            <link>https://priconceptions.com/notebook/small-living-adjustments</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/small-living-adjustments</guid>
+            <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+            <category>Tools</category>
+        </item>
         <item>
             <title><![CDATA[6 months of low screentime later...]]></title>
             <link>https://priconceptions.com/notebook/foqos</link>

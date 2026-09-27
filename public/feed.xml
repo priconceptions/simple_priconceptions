@@ -4,16 +4,23 @@
         <title>priconceptions</title>
         <link>https://priconceptions.com</link>
         <description>Priyanka's blog</description>
-        <lastBuildDate>Wed, 16 Sep 2026 20:51:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 21:15:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Journaling inspired by The Frozen River]]></title>
+            <link>https://priconceptions.com/notebook/journaling-frozen-river</link>
+            <guid isPermaLink="false">https://priconceptions.com/notebook/journaling-frozen-river</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <category>Book snippets</category>
+        </item>
         <item>
             <title><![CDATA[Standing By Words, Wendell Berry]]></title>
             <link>https://priconceptions.com/notebook/standing-by-words</link>
             <guid isPermaLink="false">https://priconceptions.com/notebook/standing-by-words</guid>
             <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
-            <category>quotes</category>
+            <category>Quote Snippets</category>
         </item>
         <item>
             <title><![CDATA[Small living adjustments]]></title>
